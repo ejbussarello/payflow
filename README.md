@@ -1,16 +1,12 @@
-# payflow
+# Payflow
 
-A new Flutter project.
+Gerenciador de Boletos
 
-## Getting Started
+## Sobre o projeto
 
-This project is a starting point for a Flutter application.
+O projeto PayFlow foi desenvolvido na #NextLevelWeekTogether. Nosso evento incrível que sempre traz projetos inéditos, além da intensa rotina de estudos, muitas conexões e networking, trabalho em grupo e em comunidade.
+O projeto PayFlow foi desenvolvido na Next Level Week Together, da RocketSeat. Se trata de um app mobile feito em Flutter para Gerenciamento de Boletos, contendo recursos como o uso de Câmera e Galeria, Machine Leaning com MLKit, Firebase Core e SignIn, Animações e Estilizações Personalizadas, entre vários outros pontos, como o uso do SharedPreferences.
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://user-images.githubusercontent.com/7197583/126378560-3a111b75-74d9-45d5-86ce-87a9d7688155.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+O Layout foi desenvolvido por  [Tiago Luchtenberg](https://instagram.com/tiagoluchtenberg)
